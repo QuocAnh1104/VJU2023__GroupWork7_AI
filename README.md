@@ -14,7 +14,7 @@ Kaggle competitions, rankings, and community interactions are often affected by 
 - Provide an educational example of implementing a Random Forest model from scratch, without relying on machine learning libraries like scikit-learn.
 
 Dataset:
-The dataset used in this project is kaggle_bot_accounts_detection.csv
+The dataset used in this project is kaggle_bot_accounts_detection.csv. The link stores the file is below: https://drive.google.com/drive/folders/1EhvPIyWHNeCB6fmCHgP23W9fV-5gGJiA?usp=sharing
 
 Model Overview:
 The model used in this project is a Random Forest classifier, an ensemble learning method that builds multiple decision trees and aggregates their predictions for more accurate results. The key steps include:
